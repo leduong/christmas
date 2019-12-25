@@ -153,7 +153,6 @@ describe("park active", () => {
   });
 
   describe(`park KA-01-HH-1234
-    park KA-01-HH-1234
     park KA-01-HH-9999
     park KA-01-BB-0001
     park KA-01-HH-7777
