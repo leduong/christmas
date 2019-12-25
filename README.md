@@ -9,7 +9,7 @@
 
 Installing Node	& NPM:
 
-- To work with `reactjs-redux-seed` the first thing	you	need is to have Node	install on your system. To make sure you have already Nodejs installed on your system you may follow the below instructions
+- To work with `christmas` the first thing	you	need is to have Node	install on your system. To make sure you have already Nodejs installed on your system you may follow the below instructions
 
 - As Node will make sure you have node and npm commands are available via command line, just run the below command on your terminal
 
