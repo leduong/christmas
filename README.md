@@ -1,5 +1,8 @@
 # christmas [![Build Status](https://travis-ci.org/leduong/christmas.svg?branch=master)](https://travis-ci.org/leduong/christmas)
 
+
+![Image](https://i.ibb.co/Lrx6n71/image.png)
+
 ## Installation
 
 ### Required
