@@ -19,7 +19,7 @@ install:
 
 script:
   - pwd
-  - yarn test
+  - yarn tsc:test
 
 after_script:
   - node ./bin/parking_lot input.txt output.txt
