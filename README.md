@@ -1,4 +1,4 @@
-# christmas
+# christmas [![Build Status](https://travis-ci.org/leduong/christmas.svg?branch=master)](https://travis-ci.org/leduong/christmas)
 
 ## Installation
 
